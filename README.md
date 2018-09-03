@@ -1,6 +1,9 @@
 # Simply the best 404, 403, 500 error page
 
+## Sometimes simplicity is the most beautiful things in the world!! :)
+
 This is the most beautiful and simplest error template ever :)
+
 
 - Template - 404
 
