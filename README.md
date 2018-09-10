@@ -5,6 +5,7 @@
 
 This is the most beautiful and simplest error template ever :)
 
+------ 
 
 - Template - 404
 
@@ -38,7 +39,11 @@ This is the most beautiful and simplest error template ever :)
 
 </html>
 ```
+------ 
+
 ![404](https://raw.githubusercontent.com/neerajsinghsonu/simply-the-best-404-403-500-error-page/master/404.png)
+
+------ 
 
 - Template - 403
 
@@ -72,7 +77,11 @@ This is the most beautiful and simplest error template ever :)
 
 </html>
 ```
+------ 
+
 ![403](https://raw.githubusercontent.com/neerajsinghsonu/simply-the-best-404-403-500-error-page/master/403.png)
+
+------ 
 
 - Template - 500
 
@@ -106,4 +115,6 @@ This is the most beautiful and simplest error template ever :)
 
 </html>
 ```
+------ 
+
 ![500](https://raw.githubusercontent.com/neerajsinghsonu/simply-the-best-404-403-500-error-page/master/500.png)
