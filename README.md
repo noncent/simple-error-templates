@@ -1,4 +1,4 @@
-# Simple Error Templates
+# >< Simple Error Templates ><
 Here you can find World most beautiful error templates, you can upload on your server and can set custom error templates by using htaccess: Here is the htaccess code to use custom error templates
 
 ```apache
@@ -122,3 +122,7 @@ ErrorDocument 500     /500.html
 ------ 
 
 ![500](https://raw.githubusercontent.com/neerajsinghsonu/simply-the-best-404-403-500-error-page/master/500.png)
+
+
+Thank you all! :)
+
