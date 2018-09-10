@@ -1,13 +1,17 @@
 # Simple Error Templates
-## Simply the best 404, 403, 500 error page
+Here you can find World most beautiful error templates, you can upload on your server and can set custom error templates by using htaccess: Here is the htaccess code to use custom error templates
 
-### Sometimes simplicity is the most beautiful things in the world!! :)
-
-This is the most beautiful and simplest error template ever :)
+```apache
+ErrorDocument 400     /400.html
+ErrorDocument 401     /401.html
+ErrorDocument 403     /403.html
+ErrorDocument 404     /404.html
+ErrorDocument 500     /500.html
+```
 
 ------ 
 
-- Template - 404
+### Template - 404
 
 ```html
 <!DOCTYPE html>
@@ -45,7 +49,7 @@ This is the most beautiful and simplest error template ever :)
 
 ------ 
 
-- Template - 403
+### Template - 403
 
 ```html
 <!DOCTYPE html>
@@ -83,7 +87,7 @@ This is the most beautiful and simplest error template ever :)
 
 ------ 
 
-- Template - 500
+### Template - 500
 
 ```html
 <!DOCTYPE html>
